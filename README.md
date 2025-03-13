@@ -10,7 +10,7 @@
 
 `FDF` (Fil de Fer) is a wireframe modeling program that renders 3D landscapes from topographic maps. Developed as part of the 42Paris curriculum, this project introduces computer graphics concepts using the MiniLibX library. It parses `.fdf` files containing elevation data and creates interactive 3D projections with rotation, zoom, and color customization.
 
-![Wireframe Example](https://via.placeholder.com/600x400?text=Isometric+Wireframe)  
+![Wireframe Example](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F029%2F128%2F083%2Foriginal%2Fperspective-grids-retro-futuristic-wireframes-cyberpunk-net-space-perspective-lines-vanishing-point-rectangular-space-seamless-checkered-isometric-grid-pattern-isolated-set-vector.jpg&f=1&nofb=1&ipt=1f407b97bf3175d55cb4288dc5153fa99ce37cc799e73b00c72c56758fe20d4e&ipo=images)  
 *Example: Rendered landscape with altitude-based coloring*
 
 ## Features
