@@ -119,7 +119,7 @@ Run with a map file:
   <img src="images/France2.png" alt="Example Scene" title="Sample Scene File" width="400px">
   <img src="images/42.png" alt="Example Scene" title="Sample Scene File" width="400px">
   <img src="images/MandelbrotDown.png" alt="Example Scene" title="Sample Scene File" width="400px">
-  <img src="images/Mandelbrotup.png" alt="Example Scene" title="Sample Scene File" width="400px">
+  <img src="images/MandelbrotUp.png" alt="Example Scene" title="Sample Scene File" width="400px">
 </p>
 
 
