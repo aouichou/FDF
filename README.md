@@ -110,6 +110,19 @@ Run with a map file:
 - Color palette switching (`Q`/`SPACE`)
 - Multi-map navigation (`+/-` keys)
 
+## Examples
+
+<p align="center">
+  <!-- Example: replace these with actual output images -->
+  <img src="images/France.png" alt="Example Scene" title="Sample Scene File" width="400px">
+  <img src="images/BritishIsles.png" alt="Example Scene" title="Sample Scene File" width="400px">
+  <img src="images/France2.png" alt="Example Scene" title="Sample Scene File" width="400px">
+  <img src="images/42.png" alt="Example Scene" title="Sample Scene File" width="400px">
+  <img src="images/MandelbrotDown.png" alt="Example Scene" title="Sample Scene File" width="400px">
+  <img src="images/Mandelbrotup.png" alt="Example Scene" title="Sample Scene File" width="400px">
+</p>
+
+
 ## Acknowledgements
 
 Developed as part of the 42Paris curriculum. Special thanks to:
