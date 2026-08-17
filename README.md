@@ -128,11 +128,3 @@ Run with a map file:
 Developed as part of the 42Paris curriculum. Special thanks to:
 - 42 Network for MiniLibX documentation
 - Community algorithms for Bresenham's line optimization
-
----
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your Name" height="30" width="40" />
-  </a>
-</p>
